@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mr. Sandman",
+  "base_artist": "Chordettes",
+  "createdAt": "2026-03-16T15:49:23.657338Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/01_Mr._Sandman_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr Sandman",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/02_Mr_Sandman_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "The Chordettes",
+      "has_synced": true,
+      "path": "select/03_Mr._Sandman_The_Chordettes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr Sandman (Album Version)",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/04_Mr_Sandman_(Album_Version)_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/05_Mr._Sandman_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Bette Midler",
+      "has_synced": true,
+      "path": "select/06_Mr._Sandman_Bette_Midler.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Dolly Parton feat. Linda Ronstadt & Emmylou Harris",
+      "has_synced": false,
+      "path": "select/07_Mr._Sandman_Dolly_Parton_feat._Linda_Ronstadt_&_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/08_Mr._Sandman_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/09_Mr._Sandman_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "The Chordettes",
+      "has_synced": true,
+      "path": "select/10_Mr._Sandman_The_Chordettes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr Sandman",
+      "artist": "The Four Aces",
+      "has_synced": false,
+      "path": "select/11_Mr_Sandman_The_Four_Aces.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Chordettes",
+      "has_synced": true,
+      "path": "select/12_Mr._Sandman_Chordettes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr. Sandman",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/13_Mr._Sandman_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "mr sandman",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/14_mr_sandman_Various.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr Sandman",
+      "artist": "The Chordettes",
+      "has_synced": true,
+      "path": "select/15_Mr_Sandman_The_Chordettes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Sandman",
+      "artist": "The Chordettes",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Sandman_The_Chordettes.txt"
+    }
+  ]
+}
